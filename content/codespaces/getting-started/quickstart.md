@@ -1,5 +1,5 @@
----
-title: Quickstart for Codespaces
+var button =
+start for Codespaces
 intro: 'Try out {% data variables.product.prodname_codespaces %} in 5 minutes.'
 allowTitleToDifferFromFilename: true
 product: '{% data reusables.gated-features.codespaces %}'
